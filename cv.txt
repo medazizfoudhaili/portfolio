@@ -1,0 +1,83 @@
+                             MOUHAMED AZIZ FOUDHAILI
+
+                     Étudiant Ingénieur en Génie Informatique -- Recherche d'un PFE DevOps / Cloud
+
+                    Tunis / Ben Arous, Tunisie (Mobilité France) | +216 22 084 862 | mouhamedaziz.foudhaili@ensit.u-tunis.tn
+                                        LinkedIn : Mouhamed Aziz Foudhaili | GitHub : github.com/medAzizFoudhaili
+
+PROFIL
+
+Étudiant en Génie Informatique à l'ENSIT, spécialisé DevOps / Cloud Computing / Automatisation d'infrastructures.
+Expérience pratique en conteneurisation (Docker, Kubernetes), CI/CD (GitLab, Jenkins, GitHub Actions), Infrastructure as
+Code (Terraform, Ansible), supervision (Prometheus, Grafana), scripting Bash/Python et administration Linux. Disponible
+pour un PFE de 6 mois à partir de janvier 2027.
+
+FORMATION
+
+École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT) -- Cycle Ingénieur, 2024-2027 -- Génie Informatique,
+spécialisation DevOps / Cloud
+IPEIB (Bizerte) -- Cycle Préparatoire, 2022-2024 -- Filière Physique-Chimie (PC) | Baccalauréat - Sciences
+Expérimentales, 2022
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Stagiaire DevOps -- Corail Technologies -- Juillet 2026
+· Intégré l'authentification unique (SSO) entre Keycloak et Odoo (OAuth2/OpenID Connect).
+· Conteneurisé et déployé Odoo, Keycloak, PostgreSQL et Nginx avec Docker et Docker Compose.
+· Administré des serveurs Linux : configuration, supervision et résolution d'incidents ; appliqué les bonnes pratiques Git.
+Stagiaire Réseaux & Administration Système -- Poulina Group Holding -- Juin - Juillet 2025
+· Administré des postes et serveurs Linux/Windows ; assuré le support technique de niveau 1/2.
+· Configuré et dépanné des équipements réseau (LAN, VLAN, routage).
+
+PROJETS TECHNIQUES
+
+ResilientEdge - Laboratoire GitOps & Observabilité (GitLab, Jenkins, Terraform, Ansible, Docker, Docker Compose,
+Prometheus, Grafana, Node Exporter, Bash/Python)
+· Conçu une infrastructure DevOps locale, résiliente et automatisée, simulant un environnement de production sans coût
+
+   cloud.
+· Configuré un GitLab auto-hébergé couplé à Jenkins via webhooks pour automatiser les builds multi-étapes et les tests à
+
+   chaque push.
+· Mis en oeuvre l'Infrastructure as Code avec Terraform (provider Docker) et automatisé configurations serveurs et
+
+   déploiements avec des playbooks Ansible.
+· Intégré une stack d'observabilité (Prometheus, Node Exporter, Grafana) pour suivre la télémétrie système (CPU, RAM,
+
+   latence).
+· Développé des scripts de chaos engineering simulant des pannes de conteneurs et de noeuds, validant alertes et
+
+   mécanismes de reprise.
+Infrastructure Serverless AWS avec Terraform & LocalStack (Terraform, AWS, LocalStack, Lambda, API Gateway,
+DynamoDB, IAM, GitHub Actions, Python)
+· Déployé une infrastructure serverless AWS-like avec Terraform et LocalStack.
+· Automatisé validation et déploiement via GitHub Actions, tests Python et analyse de sécurité Trivy.
+Health Monitoring -- Plateforme IoT de suivi santé (React, Spring Boot, Docker, Firebase, Decision Tree)
+· Développé une plateforme de suivi de constantes de santé en temps réel, conteneurisée avec Docker.
+· Entraîné un modèle de Machine Learning (Decision Tree) pour classifier les niveaux de risque.
+Plateforme Web Freelance (Angular, Express.js, MongoDB)
+· Réalisé une plateforme de mise en relation freelances/clients (authentification, profils, matching) avec API REST.
+
+COMPÉTENCES TECHNIQUES
+
+DevOps & CI/CD : Docker, Docker Compose, Kubernetes, GitLab, Jenkins, GitHub Actions, Git, Ansible, Terraform, Bash
+Cloud & Supervision : AWS (Cloud Foundations), LocalStack, Prometheus, Grafana, Node Exporter, Node-RED, InfluxDB,
+Trivy
+Systèmes & Réseaux : Linux, Windows, Nginx, LAN/VLAN, Cisco Packet Tracer
+Bases de données : PostgreSQL, MongoDB, InfluxDB
+Langages & Développement : Python, Java, JavaScript, C, C++, Angular, Spring Boot, Node.js, Express.js, Flutter
+Outils & Sécurité : Odoo, Keycloak (SSO, OAuth2/OIDC)
+
+CERTIFICATIONS
+
+AWS Academy Cloud Foundations · Cisco CCNA 1 & CCNA 2 · Cisco Cybersecurity Essentials · Python Developer
+Certificate -- SoloLearn
+
+LANGUES
+
+Arabe : langue maternelle | Français : professionnel (B2/C1) | Anglais : professionnel (B2)
+
+QUALITÉS
+
+Travail d'équipe · Communication · Esprit d'analyse · Résolution de problèmes · Curiosité · Adaptabilité · Autonomie
+
